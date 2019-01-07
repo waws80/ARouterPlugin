@@ -10,7 +10,7 @@
 			...
 			maven { url 'https://jitpack.io' }
 		}
-		}
+	}
 	
 		dependencies {
 	        implementation 'com.github.waws80:ARouterPlugin:Tag'
