@@ -16,3 +16,7 @@
 	        implementation 'com.github.waws80:ARouterPlugin:Tag'
 		}
 
+
+## 使用类 图		
+[![](https://raw.githubusercontent.com/waws80/ARouterPlugin/master/png/class.png)]
+
